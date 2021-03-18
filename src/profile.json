@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Movie Buddy",
+    "image": "https://i.ibb.co/yn1P2qG/img2.jpg",
+    "github": "https://github.com/clogerie/Project2",
+    "deployed": "https://moviebuddy1.herokuapp.com/"
+  },
+  {
+    "id": 2,
+    "name": "Note Taker App",
+    "image": "https://i.ibb.co/grG0X8s/img3.png",
+    "github": "https://github.com/ishakhosla131/NoteTaker",
+    "deployed": "https://github.com/ishakhosla131/NoteTaker"
+  },
+  {
+    "id": 3,
+    "name": "Weather Dashboard",
+    "image": "https://i.ibb.co/X54Bt66/img4.png",
+    "github": "https://github.com/ishakhosla131/Weather",
+    "deployed": "https://ishakhosla131.github.io/Weather/"
+  },
+  {
+    "id": 4,
+    "name": "Eat Da Burger",
+    "image": "https://i.ibb.co/bbQRKG9/img5.jpg",
+    "github": "https://github.com/ishakhosla131/burger",
+    "deployed": "https://github.com/ishakhosla131/burger"
+  },
+  {
+    "id": 5,
+    "name": "Work Day Planner",
+    "image": "https://i.ibb.co/jgqv1Xv/img6.jpg",
+    "github": "https://github.com/ishakhosla131/Planner",
+    "deployed": "https://ishakhosla131.github.io/Planner/"
+  },
+  {
+    "id": 6,
+    "name": "Art Portfolio",
+    "image": "https://i.ibb.co/HVqWS6h/img7.jpg",
+    "github": "https://github.com/ishakhosla131/starch",
+    "deployed": "https://ishakhosla131.github.io/starch/portfolio.html"
+  }]
+ 
+ 

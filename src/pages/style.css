@@ -1,0 +1,31 @@
+h1{
+margin-bottom: 20px;
+color:white;
+
+
+
+}
+#contact{
+    background-image: linear-gradient(180deg,#7AA9BF, #47798C ) 
+
+  }
+  .about{
+     
+    background-image: linear-gradient(180deg,#7AA9BF, #47798C );
+
+      color:white;
+      padding-bottom: 500px;
+  }
+  img{
+      opacity: 0.7;
+  }
+
+  #aboutme{
+      position: fixed;
+      background-color: #47798C;
+      padding-top: 20px;
+  }
+  #card{
+      position: fixed;
+      background-color: #d3A9ab;
+  }
